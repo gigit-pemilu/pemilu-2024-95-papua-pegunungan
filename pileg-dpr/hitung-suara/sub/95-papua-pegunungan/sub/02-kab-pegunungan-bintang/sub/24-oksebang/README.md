@@ -1,0 +1,12 @@
+# Menu Wilayah
+
+## Link
+
+[KUBIPHKOP](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pileg-dpr/hitung-suara/sub/95-papua-pegunungan/sub/02-kab-pegunungan-bintang/sub/24-oksebang/sub/2001-kubiphkop)
+ | 
+[MANGABIP](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pileg-dpr/hitung-suara/sub/95-papua-pegunungan/sub/02-kab-pegunungan-bintang/sub/24-oksebang/sub/2004-mangabip)
+ | 
+[OKANO](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pileg-dpr/hitung-suara/sub/95-papua-pegunungan/sub/02-kab-pegunungan-bintang/sub/24-oksebang/sub/2002-okano)
+ | 
+[SEBUL](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pileg-dpr/hitung-suara/sub/95-papua-pegunungan/sub/02-kab-pegunungan-bintang/sub/24-oksebang/sub/2003-sebul)
+
