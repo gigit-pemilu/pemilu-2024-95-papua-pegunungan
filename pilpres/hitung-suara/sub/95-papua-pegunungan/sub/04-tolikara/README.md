@@ -1,0 +1,96 @@
+# Menu Wilayah
+
+## Link
+
+[AIRGARAM](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/28-airgaram)
+ | 
+[ANAWI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/36-anawi)
+ | 
+[AWEKU](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/42-aweku)
+ | 
+[BEWANI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/16-bewani)
+ | 
+[BIUK](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/45-biuk)
+ | 
+[BOGONUK](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/43-bogonuk)
+ | 
+[BOKONDINI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/02-bokondini)
+ | 
+[BOKONERI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/15-bokoneri)
+ | 
+[DANIME](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/39-danime)
+ | 
+[DOW](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/30-dow)
+ | 
+[DUNDU](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/23-dundu)
+ | 
+[EGIAM](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/25-egiam)
+ | 
+[GEYA](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/24-geya)
+ | 
+[GIKA](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/34-gika)
+ | 
+[GILUBANDU](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/18-gilubandu)
+ | 
+[GOYAGE](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/05-goyage)
+ | 
+[GUNDAGI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/20-gundagi)
+ | 
+[KAI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/41-kai)
+ | 
+[KAMBONERI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/27-kamboneri)
+ | 
+[KANGGIME](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/03-kanggime)
+ | 
+[KARUBAGA](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/01-karubaga)
+ | 
+[KEMBU](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/04-kembu)
+ | 
+[KONDA/ KONDAGA](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/12-konda/-kondaga)
+ | 
+[KUARI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/14-kuari)
+ | 
+[KUBU](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/11-kubu)
+ | 
+[LI ANOGOMMA](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/44-li-anogomma)
+ | 
+[NABUNAGE](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/17-nabunage)
+ | 
+[NELAWI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/13-nelawi)
+ | 
+[NUMBA](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/21-numba)
+ | 
+[NUNGGAWI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/19-nunggawi)
+ | 
+[PANAGA](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/09-panaga)
+ | 
+[POGANERI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/26-poganeri)
+ | 
+[TAGIME](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/40-tagime)
+ | 
+[TAGINERI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/31-tagineri)
+ | 
+[TELENGGEME](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/35-telenggeme)
+ | 
+[TIMORI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/22-timori)
+ | 
+[UMAGI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/08-umagi)
+ | 
+[WAKUWO](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/33-wakuwo)
+ | 
+[WARI/TAIYEVE II](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/29-wari/taiyeve-ii)
+ | 
+[WENAM](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/37-wenam)
+ | 
+[WINA](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/07-wina)
+ | 
+[WONIKI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/10-woniki)
+ | 
+[WUGI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/38-wugi)
+ | 
+[WUNIM](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/06-wunim)
+ | 
+[YUKO](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/46-yuko)
+ | 
+[YUNERI](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pilpres/hitung-suara/sub/95-papua-pegunungan/sub/04-tolikara/sub/32-yuneri)
+
